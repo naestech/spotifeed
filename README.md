@@ -1,3 +1,6 @@
+# Spotifeed
+https://bsky.app/profile/did:plc:5vosyksw3glpoo6dsxhpms7e/feed/aaafgqdqtoyw6
+
 # ATProto Feed Generator
 
 This is a starter kit for creating ATProto Feed Generators. It's not feature complete, but should give you a good starting ground off of which to build and deploy a feed.
